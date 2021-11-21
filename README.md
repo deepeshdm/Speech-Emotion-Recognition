@@ -20,8 +20,17 @@ While the analysis on the acoustic features can be done in real-time while the c
 
 ## Data collection
 
+For this project we would need a bunch of sample audio files with varying emotional intensities. We'll we use the RAVDESS dataset which contains 1440 files: 60 trials per actor x 24 actors = 1440 audio files . The RAVDESS contains 24 professional actors (12 female, 12 male), vocalizing two lexically-matched statements in a neutral North American accent. 
 
-
+Speech emotions includes the following : 
+- Neutral
+- Calm 
+- Happy 
+- Sad 
+- Angry
+- Fearful
+- Surprise
+- Disgust.
 
 
 
