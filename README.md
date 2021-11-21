@@ -1,7 +1,7 @@
 # Speech Emotion Recognition
 
 <div align="center">
-<Img src="/Imgs/robotfeelings.gif" width="60%"/>
+<Img src="/Imgs/robotfeelings.gif" width="54%"/>
 </div>
   
 ## Objective
