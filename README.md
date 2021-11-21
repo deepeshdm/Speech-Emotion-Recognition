@@ -1,6 +1,9 @@
 # Speech Emotion Recognition
 
-
+<div align="center">
+<Img src="/Imgs/robotfeelings.gif" width="60%"/>
+</div>
+  
 ## Objective
 As emotions play a vital role in communication, the detection and analysis of the same is of vital importance in today’s digital world of remote communication. Emotion detection is a challenging task, because emotions are subjective. There is no common consensus on how to measure or categorize them. 
 
