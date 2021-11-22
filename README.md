@@ -61,7 +61,7 @@ from API import predict_emotion
 model_path = r"\models\SER_model.h5"
 
 # path to your audio file to detect emotion (Only '.wav' files allowed)
-audio_path = r"\Women-Laughing-Sound.wav"
+audio_path = r"/Example audio/03-01-05-02-01-02-07.wav"
 
 emotion,proba = predict_emotion(audio_path, model_path)
 print("There are {} % chances you are feeling {}".format(proba,emotion))
