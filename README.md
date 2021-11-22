@@ -81,7 +81,7 @@ coming soon !
 - Rather than using a single model,a more robust ensemble model would have been more optimal.
 
 <div align="center">
-<Img src="/Imgs/encemble-ser.png" width="60%"/>
+<Img src="/Imgs/encemble-ser.png" width="35%"/>
 </div>
 
 
