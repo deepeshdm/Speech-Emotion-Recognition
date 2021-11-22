@@ -77,12 +77,17 @@ coming soon !
 
 
 ## Improvements to make
+- The model can be optimized by training on more data and tunning the hyperparameters
+- Rather than using a single model,a more robust ensemble model would have been more optimal.
 
-
+<div align="center">
+<Img src="/Imgs/ensemble-ser.png" width="60%"/>
+</div>
 
 
 ### References
-
+- https://www.analyticsinsight.net/speech-emotion-recognition-ser-through-machine-learning/
+- https://data-flair.training/blogs/python-mini-project-speech-emotion-recognition/
 
 
 
