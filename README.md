@@ -33,18 +33,23 @@ The entire dataset is 24.8GB from 24 actors, but we’ll use a dataset with lowe
 
 ## Model Training
 
+In order to solve the problem of speech-emotion-recognition,some common features extracted from raw audio include "Mel-Spectrogram" and "MFCC". In this project,we trained two seperate models. The first model was trained on Mel-Spectrograms,whereas the other was trained on MFCC's. In the end the model with best accuracy was selected (which was the model trained on Mel-spectrograms of raw audio).
 
 <div align="center">
 <Img src="/Imgs/sercnn.png" width="80%"/>
 </div>
 <br>
 
-
+(see both the model being trained in these notebooks [here](https://github.com/deepeshdm/Speech-Emotion-Recognition/tree/main/notebooks))
 
 ## To run (Locally)
 
 
 ## Web Interface
+
+
+
+## Improvements to make
 
 
 ### References
