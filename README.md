@@ -34,6 +34,12 @@ The entire dataset is 24.8GB from 24 actors, but we’ll use a dataset with lowe
 ## Model Training
 
 
+<div align="center">
+<Img src="/Imgs/sercnn.png" width="80%"/>
+</div>
+<br>
+
+
 
 ## To run (Locally)
 
@@ -41,7 +47,7 @@ The entire dataset is 24.8GB from 24 actors, but we’ll use a dataset with lowe
 ## Web Interface
 
 
-### References :
+### References
 
 
 
