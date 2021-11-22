@@ -45,13 +45,40 @@ The current accuracy of the model is 75%,and can be improved,look at the Improve
 (see both the model being trained in these notebooks [here](https://github.com/deepeshdm/Speech-Emotion-Recognition/tree/main/notebooks))
 
 ## To run (Locally)
+1. Import this repository using git command
+```
+git clone https://github.com/deepeshdm/Speech-Emotion-Recognition.git
+```
+2. Install all the required dependencies inside a virtual environment
+```
+pip install -r requirements.txt
+```
+3. Copy the below code snippet and pass the required variable values
+```python
+from API import predict_emotion
+
+# path of the saved model 
+model_path = r"\models\SER_model.h5"
+
+# path to your audio file to detect emotion (Only '.wav' files allowed)
+audio_path = r"\Women-Laughing-Sound.wav"
+
+emotion,proba = predict_emotion(audio_path, model_path)
+print("There are {} % chances you are feeling {}".format(proba,emotion))
+```
+
+
 
 
 ## Web Interface
 
 
+coming soon !
+
 
 ## Improvements to make
+
+
 
 
 ### References
