@@ -40,6 +40,8 @@ In order to solve the problem of speech-emotion-recognition,some common features
 </div>
 <br>
 
+The current accuracy of the model is 75%,and can be improved,look at the Improvements section to know more.
+
 (see both the model being trained in these notebooks [here](https://github.com/deepeshdm/Speech-Emotion-Recognition/tree/main/notebooks))
 
 ## To run (Locally)
